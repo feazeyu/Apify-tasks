@@ -1,0 +1,14 @@
+{
+  "name": "apifytotalnode",
+  "version": "1.0.1",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "description": "The solution for apify intro task, that uses more api calls but endures poorer API's",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Chwistek",
+  "license": "ISC"
+}

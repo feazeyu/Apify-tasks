@@ -1,0 +1,14 @@
+{
+  "name": "apifynode",
+  "version": "1.0.0",
+  "description": "An optimistic solution for the Apify task, breaks down with a gust of wind, but uses very little API calls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
